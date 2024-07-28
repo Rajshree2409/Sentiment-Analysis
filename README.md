@@ -2,11 +2,11 @@
 Sentiment analysis is a natural language processing (NLP) technique used to determine the emotional tone expressed in a piece of text. It classifies text as positive, negative, or neutral, and can also identify specific emotions like anger, joy, sadness, or surprise.
 
 # Project Overview
-Exploratory Data Analysis (EDA)
-Thorough exploration and visualization of the dataset to uncover underlying patterns and insights.
+* Exploratory Data Analysis (EDA)
+ -> Thorough exploration and visualization of the dataset to uncover underlying patterns and insights.
 
 * Natural Language Toolkit (NLTK)
-Utilization of NLTK for fundamental sentiment analysis tasks, including text preprocessing, tokenization, and initial sentiment scoring.
+-> Utilization of NLTK for fundamental sentiment analysis tasks, including text preprocessing, tokenization, and initial sentiment scoring.
 
 * VADER Sentiment Analysis
 Application of VADER (Valence Aware Dictionary and sEntiment Reasoner), a lexicon and rule-based sentiment analysis tool optimized for social media text.
