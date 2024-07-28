@@ -9,22 +9,22 @@ Sentiment analysis is a natural language processing (NLP) technique used to dete
 -> Utilization of NLTK for fundamental sentiment analysis tasks, including text preprocessing, tokenization, and initial sentiment scoring.
 
 * VADER Sentiment Analysis
-Application of VADER (Valence Aware Dictionary and sEntiment Reasoner), a lexicon and rule-based sentiment analysis tool optimized for social media text.
+-> Application of VADER (Valence Aware Dictionary and sEntiment Reasoner), a lexicon and rule-based sentiment analysis tool optimized for social media text.
 
 * Visualization of VADER Results
-Graphical representation of sentiment scores derived from the VADER model to illustrate sentiment distribution within the dataset.
+-> Graphical representation of sentiment scores derived from the VADER model to illustrate sentiment distribution within the dataset.
 
 * RoBERTa Pretrained Model
-Employment of the RoBERTa (Robustly optimized BERT approach) transformer model for advanced sentiment analysis. This model leverages a large corpus of pre-trained data to understand word context within sentences.
+-> Employment of the RoBERTa (Robustly optimized BERT approach) transformer model for advanced sentiment analysis. This model leverages a large corpus of pre-trained data to understand word context within sentences.
 
 * Model Performance Comparison
-Comparative analysis of sentiment scores obtained from VADER and RoBERTa models to evaluate and contrast their effectiveness.
+-> Comparative analysis of sentiment scores obtained from VADER and RoBERTa models to evaluate and contrast their effectiveness.
 
 * Integration and Comparison of Models
-Synthesis of results from various models to enhance the robustness of sentiment analysis.
+-> Synthesis of results from various models to enhance the robustness of sentiment analysis.
 
 * Review Analysis
-Detailed examination of specific review examples, such as positive 1-star reviews and negative 5-star reviews, to explore sentiment nuances.
+-> Detailed examination of specific review examples, such as positive 1-star reviews and negative 5-star reviews, to explore sentiment nuances.
 
 * Transformers Pipeline Development
-Construction of an efficient pipeline using the transformers library to streamline and expedite sentiment prediction tasks.
+-> Construction of an efficient pipeline using the transformers library to streamline and expedite sentiment prediction tasks.
